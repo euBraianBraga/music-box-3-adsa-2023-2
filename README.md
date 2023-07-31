@@ -45,3 +45,4 @@ npm start
 - @reisrb (rafael.reis@sptech.school)
 - @miniguiti (giuliana.franca@sptech.school)
 - @fernandacaramico (fernanda.caramico@sptech.school)
+- @euBraianBraga (braian.braga@sptech.school)
