@@ -1,4 +1,4 @@
-![music-box-banner](https://user-images.githubusercontent.com/53584199/159744671-420c18b0-5a06-4fd7-a8c8-7a604ec07dd8.png)
+![Group 2](https://user-images.githubusercontent.com/53722984/228359766-6595c300-f52c-4144-861c-4cb840be09cc.png)
 
 # Music Box 
 ![Badge](https://img.shields.io/badge/Code-react-0366d6?&logo=react) 
@@ -34,15 +34,15 @@ npm install
 npm start
 ```
 #
-## Arquitetura do projeto **(Versão 1)**
-![image](https://user-images.githubusercontent.com/53584199/191583425-afc56c06-1cae-4594-bc62-fc5805524b79.png)
+## Arquitetura do projeto **(Versão 2)**
 
+![image](https://user-images.githubusercontent.com/53583561/193896770-592ab4fc-3a47-4c09-920e-92d9351ce8e8.png)
 
 #
 
 ## Criado por
-- @joaopedpaula (joao.paula@sptech.school)
-- @reisrb (rafael.reis@sptech.school)
 - @miniguiti (giuliana.franca@sptech.school)
 - @fernandacaramico (fernanda.caramico@sptech.school)
+- @reisrb (rafael.reis@sptech.school)
+- @joaopedpaula (joao.paula@sptech.school)
 - @euBraianBraga (braian.braga@sptech.school)
