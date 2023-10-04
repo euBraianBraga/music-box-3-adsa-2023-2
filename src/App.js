@@ -1,5 +1,9 @@
 import api from "./api";
+import Musicas from "./Musicas";
 import { useState } from "react";
+import "./html-css-template/css/style.css";
+import "./html-css-template/css/reset.css";
+
 function App() {
   const [musicas, setMusicas] = useState([]);
   function listar() {
@@ -15,15 +19,7 @@ function App() {
   }
   return (
     <>
-      <h1>Titulo</h1>
-      <button onClick={listar}>Listar</button>
-      {musicas.map((musica) => (
-        <div key={musica.id}>
-          <h1>{musica.nome}</h1>
-          <h1>{musica.artista}</h1>
-          <br />
-        </div>
-      ))}
+      <Musicas />
     </>
   );
 }
