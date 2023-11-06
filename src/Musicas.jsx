@@ -36,6 +36,7 @@ function Musicas() {
         <div className="music-boxes">
           {musicas?.map((musica) => (
               <ItemMusica
+                id={musica.id}
                 key={musica.id}
                 nome={musica.nome}
                 artista={musica.artista}
